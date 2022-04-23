@@ -11,4 +11,4 @@ I am a machine learning researcher and practitioner with a Master's degree in Mi
 
 I'm working highly agile, transparent, and structured, sharing with you the whole process and progress in close cooperation.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mechlyaa&show_icons=true&theme=radical)
