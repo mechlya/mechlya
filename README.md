@@ -38,7 +38,7 @@ I'm working highly agile, transparent, and structured, sharing with you the whol
 ![Xilinx](https://img.shields.io/badge/-Xilinx-05122A?style=flat&logo=Xilinx)&nbsp;
 ![Arduino](https://img.shields.io/badge/-Arduino-05122A?style=flat&logo=Arduino)&nbsp;
 ![Nvidia](https://img.shields.io/badge/-Nvidia-05122A?style=flat&logo=Nvidia)&nbsp;
-![Xilinx](https://img.shields.io/badge/-Xilinx-05122A?style=flat&logo=Xilinx)&nbsp;
+![Microbit](https://img.shields.io/badge/-Microbit-05122A?style=flat&logo=Microbit)&nbsp;
 
 
 
