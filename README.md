@@ -1,5 +1,5 @@
 ### Hi there 👋
-### Mechlya Mohamed Amine
+### Mechlia Mohamed Amine
 [![Linkedin Badge](https://img.shields.io/badge/-mechlya-0077B5?style=flat&logo=Linkedin)](https://https://www.linkedin.com/in/mechlia/)
 [![Website Badge](https://img.shields.io/badge/-Website-3423A6?style=flat&logo=Google-Chrome&logoColor=white)](https://bit.ly/3mPRDZG)
 [![email Badge](https://img.shields.io/badge/-mechlia-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:mechliamohamedamine@gmail.com)
