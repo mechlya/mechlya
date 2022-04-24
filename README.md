@@ -33,7 +33,7 @@ I'm working highly agile, transparent, and structured, sharing with you the whol
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-05122A?style=flat&logo=Matplotlib)&nbsp;
 ![Selenium](https://img.shields.io/badge/-Selenium-05122A?style=flat&logo=Selenium)&nbsp;
 ![Blender](https://img.shields.io/badge/-Blender-05122A?style=flat&logo=Blender)&nbsp;
-![OpenCV ](https://img.shields.io/badge/-OpenCV -05122A?style=flat&logo=OpenCV )&nbsp;
+![OpenCV](https://img.shields.io/badge/-OpenCV-05122A?style=flat&logo=OpenCV)&nbsp;
 
 
 # <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> 
