@@ -15,6 +15,7 @@ I'm working highly agile, transparent, and structured, sharing with you the whol
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
 
 ![Tensorflow](https://img.shields.io/badge/-Tensorflow-05122A?style=flat&logo=Tensorflow)&nbsp;
 ![Keras](https://img.shields.io/badge/-Keras-05122A?style=flat&logo=Keras)&nbsp;
@@ -43,7 +44,7 @@ I'm working highly agile, transparent, and structured, sharing with you the whol
 ![Xilinx](https://img.shields.io/badge/-Xilinx-05122A?style=flat&logo=Xilinx)&nbsp;
 ![Arduino](https://img.shields.io/badge/-Arduino-05122A?style=flat&logo=Arduino)&nbsp;
 ![Nvidia](https://img.shields.io/badge/-Nvidia-05122A?style=flat&logo=Nvidia)&nbsp;
-![Raspberry](https://img.shields.io/badge/-Raspberry-05122A?style=flat&logo=Raspberry-py)&nbsp;
+![Raspberry py](https://img.shields.io/badge/-Raspberry-05122A?style=flat&logo=Raspberry-Py)&nbsp;
 ![Microbit](https://img.shields.io/badge/-Microbit-05122A?style=flat&logo=Microbit)&nbsp;
 
 
