@@ -56,5 +56,5 @@ I'm working highly agile, transparent, and structured, sharing with you the whol
 - 🌱 I love to learn new things and ready to help others.
 - 🎨 Fun fact: In my free time, you'll find me listening music or watching Web Series.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mechlya&show_icons=true&theme=merko)
+
 
