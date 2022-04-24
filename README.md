@@ -34,6 +34,12 @@ I'm working highly agile, transparent, and structured, sharing with you the whol
 ![Selenium](https://img.shields.io/badge/-Selenium-05122A?style=flat&logo=Selenium)&nbsp;
 ![Blender](https://img.shields.io/badge/-Blender-05122A?style=flat&logo=Blender)&nbsp;
 ![OpenCV](https://img.shields.io/badge/-OpenCV-05122A?style=flat&logo=OpenCV)&nbsp;
+![PyCharm](https://img.shields.io/badge/-PyCharm-05122A?style=flat&logo=PyCharm)&nbsp;
+![Xilinx](https://img.shields.io/badge/-Xilinx-05122A?style=flat&logo=Xilinx)&nbsp;
+![Arduino](https://img.shields.io/badge/-Arduino-05122A?style=flat&logo=Arduino)&nbsp;
+![Nvidia](https://img.shields.io/badge/-Nvidia-05122A?style=flat&logo=Nvidia)&nbsp;
+![Xilinx](https://img.shields.io/badge/-Xilinx-05122A?style=flat&logo=Xilinx)&nbsp;
+
 
 
 # <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> 
