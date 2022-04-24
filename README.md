@@ -19,12 +19,15 @@ I'm working highly agile, transparent, and structured, sharing with you the whol
 ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
+![Tensorflow](https://img.shields.io/badge/-Tensorflow-05122A?style=flat&logo=Tensorflow)&nbsp;
 
 # <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> 
 
 - 💬 Ask me about anything and everything! 
 - 📫 How to reach me: mail me at [mechliamohamedamine@gmail.com](mechliamohamedamine@gmail.com)
-- ⚡ Fun fact: I usually like coding at nights! 
+- 🌱 I love to learn new things and ready to help others.
+- 🎨 Fun fact: In my free time, you'll find me listening music or watching Web Series.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mechlya&show_icons=true&theme=merko)
 
