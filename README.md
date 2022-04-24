@@ -1,8 +1,8 @@
 ### Hi there 👋
 ### Mechlya Mohamed Amine
-[![Linkedin Badge](https://img.shields.io/badge/-pradeepjangid15-0077B5?style=flat&logo=Linkedin)](https://https://www.linkedin.com/in/mechlia/)
-[![Website Badge](https://img.shields.io/badge/-insidethehack-3423A6?style=flat&logo=Google-Chrome&logoColor=white)](https://bit.ly/3mPRDZG)
-[![email Badge](https://img.shields.io/badge/-prdpjngd-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:mechliamohamedamine@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-mechlya-0077B5?style=flat&logo=Linkedin)](https://https://www.linkedin.com/in/mechlia/)
+[![Website Badge](https://img.shields.io/badge/-Website-3423A6?style=flat&logo=Google-Chrome&logoColor=white)](https://bit.ly/3mPRDZG)
+[![email Badge](https://img.shields.io/badge/-mechlia-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:mechliamohamedamine@gmail.com)
 ![](https://visitor-badge.glitch.me/badge?page_id=prdpjngd) 
 #### I'm python developer || machine learning || embedded systems || computer vision specialist
 
