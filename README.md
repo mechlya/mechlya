@@ -28,7 +28,7 @@ I'm working highly agile, transparent, and structured, sharing with you the whol
 ![PyTorch](https://img.shields.io/badge/-PyTorch-05122A?style=flat&logo=PyTorch)&nbsp;
 ![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=Pandas)&nbsp;
 ![NumPy](https://img.shields.io/badge/-NumPy-05122A?style=flat&logo=NumPy)&nbsp;
-![Scikit-Learn](https://img.shields.io/badge/-Scikit-Learn-05122A?style=flat&logo=Scikit-Learn)&nbsp;
+![Matplotlib](https://img.shields.io/badge/-Scikit-Learn-05122A?style=flat&logo=Scikit-Learn)&nbsp;
 ![Selenium](https://img.shields.io/badge/-Selenium-05122A?style=flat&logo=Selenium)&nbsp;
 ![Blender](https://img.shields.io/badge/-Blender-05122A?style=flat&logo=Blender)&nbsp;
 
