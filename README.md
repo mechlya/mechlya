@@ -1,5 +1,5 @@
 ### Hi there 👋
-# <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> 
+
 ### Mechlia Mohamed Amine
 [![Linkedin Badge](https://img.shields.io/badge/-mechlya-0077B5?style=flat&logo=Linkedin)](https://www.linkedin.com/in/mechlia/)
 [![Website Badge](https://img.shields.io/badge/-Website-3423A6?style=flat&logo=Google-Chrome&logoColor=white)](https://bit.ly/3mPRDZG)
@@ -49,7 +49,7 @@ I'm working highly agile, transparent, and structured, sharing with you the whol
 ![Microbit](https://img.shields.io/badge/-Microbit-05122A?style=flat&logo=Microbit)&nbsp;
 
 
-
+# <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> 
 
 
 - 💬 Ask me about anything and everything! 
